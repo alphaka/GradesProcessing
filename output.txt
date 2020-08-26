@@ -1,0 +1,54 @@
+
+The grades and average of each student are:
+
+Truman  Jones   grades are: 89 100 95 and the average of these grades is : 94.667
+Mel     Brooks  grades are: 90 95 86 and the average of these grades is : 90.333
+Tom     Keen    grades are: 63 76 89 and the average of these grades is : 76
+Ramon   Wilson  grades are: 83 60 75 and the average of these grades is : 72.667
+Tom     Cruise  grades are: 94 96 83 and the average of these grades is : 91
+May     West    grades are: 78 94 80 and the average of these grades is : 84
+Spike   Lee     grades are: 84 93 99 and the average of these grades is : 92
+Alpha   Kaba    grades are: 98 69 90 and the average of these grades is : 85.667
+Brad    Pitt    grades are: 85 85 88 and the average of these grades is : 86
+Fatim   Diallo  grades are: 74 77 76 and the average of these grades is : 75.667
+Jude    Law     grades are: 81 72 97 and the average of these grades is : 83.333
+Aminata Sow     grades are: 59 71 98 and the average of these grades is : 76
+John    Wayne   grades are: 77 97 73 and the average of these grades is : 82.333
+Jet     Li      grades are: 90 98 74 and the average of these grades is : 87.333
+Ngawang King    grades are: 92 80 79 and the average of these grades is : 83.667
+Cheick  Talib   grades are: 100 92 94 and the average of these grades is : 95.333
+Bob     Hope    grades are: 79 99 71 and the average of these grades is : 83
+
+
+
+
+- For exam 1
+
+        The student who attained the highest grade is:
+                Cheick  Talib   grades are: 100 92 94 and the average of these grades is : 95.333
+
+        The mean of the class is: 83.294
+
+        The standard deviation of the class is: 11.157
+
+
+
+- For exam 2
+
+        The student who attained the highest grade is:
+                Truman  Jones   grades are: 89 100 95 and the average of these grades is : 94.667
+
+        The mean of the class is: 85.529
+
+        The standard deviation of the class is: 12.650
+
+
+
+- For exam 3
+
+        The student who attained the highest grade is:
+                Spike   Lee     grades are: 84 93 99 and the average of these grades is : 92
+
+        The mean of the class is: 85.118
+
+        The standard deviation of the class is: 9.512
